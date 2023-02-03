@@ -693,7 +693,7 @@ border: 0.5px solid #F4F4FD;
 }
 
 .modal-form-checkbox:checked + .modal-form-check-desc::before{
-        background-image: url(/images/icon-done.svg);
+        background-image: url(../images/icon-done.svg);
         background-repeat: no-repeat;
         background-position: 50% 50%;
         background-color: #404BBF;
