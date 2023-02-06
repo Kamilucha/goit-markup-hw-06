@@ -553,8 +553,13 @@ border: 0.5px solid #F4F4FD;
         padding-left: 24px;
         padding-right: 24px;
         margin-top: 16px;
+        transition: background-color var(--transition);
         
-  
+}
+
+.footer-submit-button:hover,
+.footer-submit-button:focus{
+        background-color: #404BBF;
 }
 
 .footer-form-icon{
